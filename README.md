@@ -1,4 +1,4 @@
-Moon lander remake on Python. This is a 2d game that expanded on my knowledge from my first experiment on .NET to make some sort of platformer. I used this game as an assignment project for CS1527 Object Oriented Programming.
+Moon lander remake on Python. This is a 2d game that expanded on my knowledge from my first experiment on .NET to make some sort of platformer. I used this game as an assignment project for CS1527 Object Oriented Programming using Python3. and pygame.
 
 The rules of the game are roughly the same ones as in Moon Lander.
 
